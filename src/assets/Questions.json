@@ -1,0 +1,182 @@
+{
+    "questions": [{
+        "questionsText": "The correct sequence of HTML tags for starting a webpage is?",
+        "options": [{
+                "text": "HTML, Head, Title, Body ",
+                "correct": true
+            },
+            {
+                "text": "Head, Title, HTML, body "
+            },
+            {
+                "text":"HTML, Body, Title, Head "
+            },
+            {
+                "text":"HTML, Head, Title, Body "
+            }
+        ],
+        "explanation": "The correct sequence of HTML tags to start a webpage is html, head, title, and body."
+    },
+    {
+        "questionsText": "Which of the following element is responsible for making the text bold in HTML?",
+        "options": [{
+                "text":"<pre> "
+            },
+            {
+                "text":"<a> "
+            },
+            {
+                "text":"<br> "
+            },
+            {
+                "text":"<b> ",
+                "correct": true
+            }
+        ],
+        "explanation": "The <b> (bold tag) tag in HTML is used to display the written text in bold format. "
+    },
+    {
+        "questionsText": "Which of the following tag is used for inserting the largest heading in HTML? ",
+        "options": [{
+                "text":"<h3> "
+            },
+            {
+                "text":"<h1> ",
+                "correct":true
+            },
+            {
+                "text":"<h5> "
+            },
+            {
+                "text":"<h5> "
+            }
+        ],
+        "explanation":"The <h1> tag is used to insert the main heading or the highest level heading. "
+    },
+    {
+        "questionsText":"<input> is ? ",
+        "options": [{
+                "text":"an empty tag.",
+                "correct":true
+            },
+            {
+                "text":" format tag. "
+            },
+            {
+                "text":"all of the above "
+            },
+            {
+                "text":"none of these "
+            }
+        ],
+        "explanation": "The <input> tag in HTML is used to represent a form input control in HTML document "
+    },
+    {
+        "questionsText":"Which of the following tag is used to define options in a drop-down selection list? ",
+        "options": [{
+                "text":"<list> "
+            },
+            {
+                "text":"<option> ",
+                "correct": true
+            },
+            {
+                "text":"<select>"
+            },
+            {
+                "text":"<dropdown>"
+            }
+        ],
+        "explanation":"The <option> tag in HTML is used to define options in a dropdown list within <select> or <datalist> element. A dropdown list must have at least one <option> element. "
+    },
+    {
+        "questionsText":"The <hr> tag in HTML is used for ? ",
+        "options":[{
+                "text":"horizontal ruler ",
+                "correct":true
+            },
+            {
+                "text":"vertical ruler "
+            },
+            {
+                "text":"new paragraph"
+            },
+            {
+                "text":" new line"
+            }
+        ],
+        "explanation":"The <hr> tag is used to specify a paragraph-level thematic break in HTML document. It is called a horizontal rule and draws a horizontal line. "
+    },
+    {
+        "questionsText":"Which of the following attribute is used to provide a unique name to an element? ",
+        "options": [{
+                "text":"class "
+            },
+            {
+                "text":" type"
+            },
+            {
+                "text":"id ",
+                "correct":true
+            },
+            {
+                "text":"none of the above "
+            }
+        ],
+        "explanation":"The id attribute is used to specify a unique id for an element of the HTML document. It allocates the unique identifier which can be used by the JavaScript and CSS to perform certain tasks. "
+    },
+    {
+        "questionsText":"What are the types of unordered or bulleted list in HTML?",
+        "options": [{
+                "text":"disc, circle, square",
+                "correct": true
+            },
+            {
+                "text":"disc, square, triangle "
+            },
+            {
+                "text":"polygon, triangle, circle "
+            },
+            {
+                "text":"all of the above "
+            }
+        ],
+        "explanation":" The unordered or bulleted list in HTML is used to display the elements in a bulleted format. Mainly, there are three types of an unordered list: disc, circle, and square."
+    },
+    {
+        "questionsText": "Which of the following HTML attribute is used to define inline styles ",
+        "options": [{
+                "text":"style ",
+                "correct":true
+            },
+            {
+                "text":" type"
+            },
+            {
+                "text":" class"
+            },
+            {
+                "text":"none of the above "
+            }
+        ],
+        "explanation":"The style attribute in HTML is used to change the style of existing HTML elements. It can be used with any HTML tag. To apply the style on the HTML tag, you should have the basic knowledge of CSS properties. "
+    },
+    {
+        "questionsText":"The tags in HTML are - ",
+        "options": [{
+                "text":"not case sensitive ",
+                "correct":true
+            },
+            {
+                "text":"in upper case "
+            },
+            {
+                "text":"in lower case"
+            },
+            {
+                "text":"cas sensitive "
+            }
+        ],
+        "explanation":"HTML is a case-insensitive language, which means we can use tags either in the upper-case or in lower-case. It is recommended to write all tags in the lowercase for readability, consistency, etc. "
+    }]
+}

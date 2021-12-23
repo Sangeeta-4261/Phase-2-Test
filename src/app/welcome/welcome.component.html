@@ -1,0 +1,17 @@
+<div class="container bg-light py-5" style="background-color: grey;">
+    <h1 class="display-5 fw-bold">Welcome to Web Development Online-Test</h1> 
+    <p class="col-md-8 fs-4">This Online-Test contain Total 10 Questions. Each Question carries 1 mark</p>
+    <h4>Instructions:</h4>
+    <ol>
+        <li>Correct Questions gives you 10 mark</li>
+        <li>No nagative marks</li>
+        <li>you will have 1 minute to answer each Question</li>
+        <li>Refreshing the page will reset the Online-Test</li>
+    </ol>
+    <h1 style="font-family: cursive;text-align: center">ALL THE BEST</h1>
+    <div class="name col-md-4 my-3">
+        <label for="">Enter your name</label>
+        <input #name type="text" class="form-control">
+    </div>
+    <button class="btn btn-primary btn-lg" routerLink="/main" (click)="StartTest()">Start the Online-Test</button>
+</div>

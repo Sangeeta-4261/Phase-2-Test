@@ -1,0 +1,12 @@
+div {
+    height: 150px;
+    width: 1000px;
+    text-align: center;
+    background-color: violet;
+}
+
+.center {
+    border: 5px red;
+    display: flex;
+    justify-content: center;
+}

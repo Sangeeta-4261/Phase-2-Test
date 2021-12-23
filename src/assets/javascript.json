@@ -1,0 +1,182 @@
+{
+    "javascript": [{
+        "questionsText": "Which type of JavaScript language is ___?",
+        "options": [{
+                "text": " Object-Based",
+                "correct": true
+            },
+            {
+                "text": "Assembly-language "
+            },
+            {
+                "text":"object-oriented "
+            },
+            {
+                "text":"high-level "
+            }
+        ],
+        "explanation": "JavaScript is not a pure OOP's (object oriented programming) based languages such as PHP, java or many other languages, although it is an object-based language. It is not OOP's based language, because it doesn't have three basic properties of object-oriented programming languages, such as polymorphism, encapsulation, and inheritance."
+    },
+    {
+        "questionsText": "Which one of the following also known as Conditional Expression:",
+        "options": [{
+                "text":"Alternative to if-else"
+            },
+            {
+                "text":"switch-statements"
+            },
+            {
+                "text":"If-then-else statement "
+            },
+            {
+                "text":"immediate-if ",
+                "correct": true
+            }
+        ],
+        "explanation": "A conditional expression can only evaluate two things, which either true or false, that are purely based on the evaluation of the condition "
+    },
+    {
+        "questionsText": "In JavaScript, what is a block of statement? ",
+        "options": [{
+                "text":"both conditional block and a single statement"
+            },
+            {
+                "text":"block that combines a number of statements into a single compound statement ",
+                "correct":true
+            },
+            {
+                "text":"block that contains a single statemen "
+            },
+            {
+                "text":"conditional block "
+            }
+        ],
+        "explanation":"A block of statement can be understand as the set of the zero or more statements. In general, a block of statement has common definition which combines one or a number of statements"
+    },
+    {
+        "questionsText":"When interpreter encounters an empty statements, what it will do: ",
+        "options": [{
+                "text":"ignores the statements",
+                "correct":true
+            },
+            {
+                "text":"Prompts to complete the statement"
+            },
+            {
+                "text":"Throws an error"
+            },
+            {
+                "text":" shows a warning"
+            }
+        ],
+        "explanation": " In JavaScript, when the interpreter encounters a empty statements it normally ignores or not response to that empty statement. The empty statements also sometimes very useful like we use the empty statements for creating loop for nothing."
+    },
+    {
+        "questionsText":" The function and var are known as:",
+        "options": [{
+                "text":" Data types"
+            },
+            {
+                "text":"declaration statements",
+                "correct": true
+            },
+            {
+                "text":"proto types"
+            },
+            {
+                "text":"keywords"
+            }
+        ],
+        "explanation":"The function and var both are the Declaration statements. These both are used for defining, and declaring variable, function in anywhere in the program."
+    },
+    {
+        "questionsText":"Which one of the following is the correct way for calling the JavaScript code? ",
+        "options":[{
+                "text":"Function/Method",
+                "correct":true
+            },
+            {
+                "text":"Triggering Event"
+            },
+            {
+                "text":"RMI"
+            },
+            {
+                "text":"preprocessor "
+            }
+        ],
+        "explanation":"The JavaScript code can be called simply by making the function call to the element on which the JavaScript code execution has to be run. There are several other ways to call JavaScript code such as submit, onclick, and onload, etc."
+    },
+    {
+        "questionsText":"Which of the following type of a variable is volatile?",
+        "options": [{
+                "text":" Dynamic variable"
+            },
+            {
+                "text":"immutable variable "
+            },
+            {
+                "text":"mutable variable ",
+                "correct":true
+            },
+            {
+                "text":"volatail variable"
+            }
+        ],
+        "explanation":"The variables whose value can be modified that kind of variable are known as Mutable variable. In the JavaScript, only arrays and objects are mutable but not the primitive values. "
+    },
+    {
+        "questionsText":"When there is an indefinite or an infinite value during an arithmetic computation in a program, then JavaScript prints______.",
+        "options": [{
+                "text":"Displays 'Infinity'",
+                "correct": true
+            },
+            {
+                "text":"Prints the value as such"
+            },
+            {
+                "text": "print an verflow error"
+            },
+            {
+                "text":"print an exception error "
+            }
+        ],
+        "explanation":"In the case, where the result of any arithmetic expression is beyond the largest represent-able number,JavaScript prints the infinity. Similarly, if the result of any numerical operation is beyond the largest negative number, JavaScript prints negative infinity.  "
+    },
+    {
+        "questionsText": "In the JavaScript, which one of the following is not considered as an error: ",
+        "options": [{
+                "text":"Division by zero ",
+                "correct":true
+            },
+            {
+                "text":"Missing of semicolons"
+            },
+            {
+                "text":"missing of bracket "
+            },
+            {
+                "text":"syntax error "
+            }
+        ],
+        "explanation":" Yes, you heard right that division of any integer by zero is not an error in the JavaScript. It just prints the infinity as a result. However, there is an exception in JavaScript, dividing zero with zero will not have any defined number/value so, the result of this specific operation is a special value Not a Number (or NaN) and printed as NaN."
+    },
+    {
+        "questionsText":"Which of the following givenfunctions of the Number Object formats a number with a different number of digits to the right of the decimal?",
+        "options": [{
+                "text":" toFixed()",
+                "correct":true
+            },
+            {
+                "text":"toExponential() "
+            },
+            {
+                "text":"toPrecision()"
+            },
+            {
+                "text":"toPrecision()"
+            }
+        ],
+        "explanation":" The tofixed() method formats the given number with a specific number of digits to the right of the decimal. "
+    }]
+}

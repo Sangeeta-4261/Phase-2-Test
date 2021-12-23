@@ -1,0 +1,182 @@
+{
+    "CSS": [{
+        "questionsText": "CSS stands for ?",
+        "options": [{
+                "text": "Cascading style sheets",
+                "correct": true
+            },
+            {
+                "text": "Color and style sheets "
+            },
+            {
+                "text":"Cascade style sheets"
+            },
+            {
+                "text":"None of the above "
+            }
+        ],
+        "explanation": "CSS stands for Cascading Style Sheet. CSS is used to design HTML tags. CSS is a widely used language on the web. HTML, CSS and JavaScript are used for web designing. It helps the web designers to apply style on HTML tags."
+    },
+    {
+        "questionsText": "The property in CSS used to change the background color of an element is ?",
+        "options": [{
+                "text":"bgcolor "
+            },
+            {
+                "text":"color "
+            },
+            {
+                "text":" all of the above"
+            },
+            {
+                "text":"background-color ",
+                "correct": true
+            }
+        ],
+        "explanation": "The background-color property is used to specify the background color of an element. The background of an element covers the total size, including the padding and border and excluding margin. "
+    },
+    {
+        "questionsText": "The CSS property used to control the element's font-size is ?",
+        "options": [{
+                "text":"text-size "
+            },
+            {
+                "text":"font-size ",
+                "correct":true
+            },
+            {
+                "text":"text-style"
+            },
+            {
+                "text":" all of the above"
+            }
+        ],
+        "explanation":"The font-size property in CSS is used to specify the height and size of the font. It affects the size of the text of an element. Its default value is medium and can be applied to every element."
+    },
+    {
+        "questionsText":"Which of the following CSS property is used to set the background image of an element?",
+        "options": [{
+                "text":"background-image",
+                "correct":true
+            },
+            {
+                "text":" background-attachment "
+            },
+            {
+                "text":"background-color "
+            },
+            {
+                "text":"none of the above "
+            }
+        ],
+        "explanation": "The background-image property is used to set an image as a background of an element. By default the image covers the entire element."
+    },
+    {
+        "questionsText":"Which of the following property is used as the shorthand property for the padding properties? ",
+        "options": [{
+                "text":"padding-right "
+            },
+            {
+                "text":" padding",
+                "correct": true
+            },
+            {
+                "text":"padding-left"
+            },
+            {
+                "text":" all of the above"
+            }
+        ],
+        "explanation":"CSS padding property is used to define the space between the element content and the element border. Top, bottom, left and right padding can be changed independently using separate properties. By using the shorthand padding property we can also change all padding properties at once. "
+    },
+    {
+        "questionsText":"Are the negative values allowed in padding property? ",
+        "options":[{
+                "text":"No ",
+                "correct":true
+            },
+            {
+                "text":" Can't say "
+            },
+            {
+                "text":"yes "
+            },
+            {
+                "text":"may be "
+            }
+        ],
+        "explanation":"The negative values are not allowed when using the padding property. "
+    },
+    {
+        "questionsText":"Which of the following property is used as the shorthand property of margin properties?  ",
+        "options": [{
+                "text":"margin-left"
+            },
+            {
+                "text":"margin-right"
+            },
+            {
+                "text":"margin",
+                "correct":true
+            },
+            {
+                "text":"none of the above "
+            }
+        ],
+        "explanation":" CSS Margin property is used to define the space around elements. The Top, bottom, left and right margin can be changed independently using separate properties. By using the shorthand margin property we can change all margin properties at once. "
+    },
+    {
+        "questionsText":"The CSS property used to specify the transparency of an element is ? ",
+        "options": [{
+                "text":"opacity",
+                "correct": true
+            },
+            {
+                "text":" filter"
+            },
+            {
+                "text":" visibility"
+            },
+            {
+                "text":"all of the above "
+            }
+        ],
+        "explanation":"The CSS opacity property is used to specify the transparency of an element. In simple words, you can say that it specifies the clarity of the image. "
+    },
+    {
+        "questionsText": "The CSS property used to specify whether the text is written in the horizontal or vertical direction? ",
+        "options": [{
+                "text":"writing-mode ",
+                "correct":true
+            },
+            {
+                "text":"text-indent "
+            },
+            {
+                "text":"word-break"
+            },
+            {
+                "text":"none of the above "
+            }
+        ],
+        "explanation":"The writing-mode CSS property specifies whether the text is written in the vertical or horizontal direction. This property sets whether the lines of text are laid out vertically or horizontally. It specifies the direction in which the content flows on the page. "
+    },
+    {
+        "questionsText":"Which of the following is not a value of the font-variant property in CSS?",
+        "options": [{
+                "text":"large-caps",
+                "correct":true
+            },
+            {
+                "text":"small-caps"
+            },
+            {
+                "text":"inherit "
+            },
+            {
+                "text":"normal"
+            }
+        ],
+        "explanation":" CSS font-variant property specifies how to set a font variant of an element. Its values may be normal and small-caps."
+    }]
+}
